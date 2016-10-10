@@ -41,7 +41,7 @@
     "rulers": [],
 
     // Set to true to turn spell checking on by default
-    "spell_check": false,
+    "spell_check": true,
 
     // The number of spaces a tab is considered equal to
     "tab_size": 4,
@@ -179,7 +179,7 @@
 
     // Set to true to automatically save files when switching to a different file
     // or application
-    "save_on_focus_lost": false,
+    "save_on_focus_lost": true,
 
     // Save via writing to an alternate file, and then renaming it over the
     // original file.
@@ -286,7 +286,8 @@
     "show_tab_close_buttons": true,
 
     // Show folders in the side bar in bold
-    "bold_folder_labels": false,
+    "bold_folder_labels": true
+    ,
 
     // OS X only: Set to true to disable Lion style full screen support.
     // Sublime Text must be restarted for this to take effect.
