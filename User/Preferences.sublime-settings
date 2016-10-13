@@ -1,6 +1,14 @@
 {
+	"color_scheme": "Packages/User/SublimeLinter/Monokai (SL).tmTheme",
+	"font_size": 8,
+	"hot_exit": false,
 	"ignored_packages":
 	[
+		"Git",
+		"GitGutter",
+		"GitGutter-Edge",
+		"GitTimeMetric",
 		"Vintage"
-	]
+	],
+	"remember_open_files": false
 }
