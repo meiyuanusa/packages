@@ -10,12 +10,23 @@
 		"All Autocomplete",
 		"Anaconda",
 		"AutoFileName",
+		"Case Conversion",
+		"CodeComplice",
+		"DocBlockr",
 		"Emmet",
 		"Git",
 		"GitGutter",
+		"GitGutter-Edge",
 		"GitTimeMetric",
 		"Package Control",
+		"PHP Companion",
+		"Sass",
+		"SFTP",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
 		"SublimeREPL",
-		"Tag"
+		"Sublimerge 3",
+		"Xdebug Client"
 	]
 }
